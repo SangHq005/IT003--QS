@@ -76,7 +76,7 @@ void choose(int arr[], int& arrSize) {
 			getMaxMinusValue(arr, arrSize);
 			break;
 		case 7:
-			getMaxMinusValue(arr, arrSize);
+			getMinPositiveValue(arr, arrSize);
 			break;
 		case 8:
 			findValuesEqualToX(arr, arrSize);
